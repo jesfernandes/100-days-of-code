@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 **Link to work:**
-[project](https://github.com/jesfernandes/python_introduction)
+[project](https://github.com/jessicaboatto/python_introduction)
 
 ### Day 1: Jan 22, 2018
 
