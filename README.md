@@ -14,7 +14,7 @@
 
 ## Contents
 * [Rules](rules.md)
-* [@vturrisi progress](log.md)
+* [@jessicaboatto progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
