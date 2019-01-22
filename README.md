@@ -8,13 +8,13 @@
 * [@joaovkn](https://github.com/joaovkn)
 * [@silva-matheus](https://github.com/silva-matheus)
 * [@shigaki](https://github.com/shigaki)
-* [@jesfernandes](https://github.com/jesfernandes)
+* [@jessicaboatto](https://github.com/jessicaboatto)
 
 
 
 ## Contents
 * [Rules](rules.md)
-* [@jesfernandes progress](log.md)
+* [@jessicaboatto progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
