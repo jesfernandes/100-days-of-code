@@ -3,11 +3,10 @@
 **Link to work:**
 [project](https://github.com/jessicaboatto/python_introduction)
 
-### Day 1: Jan 22, 2018
+### Day 1: Jan 22, 2019
 
 **Today's Progress**:
-- Created a base project to start learning pytorch
-- Forward and backwardprop by 'hand' using pytorch
+- Created a base project/cod to start learning Python
 
 **Info**:
-- Computed loss by hand so that pytorch can perform auto derivative
+- The initial phase aims to familiarise with Python.
