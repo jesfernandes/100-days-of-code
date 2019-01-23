@@ -10,3 +10,9 @@
 
 **Info**:
 - The initial phase aims to familiarise with Python.
+
+### Day 2: Jan 23, 2019
+
+**Today's Progress**:
+- Started to learn variables and declare functions.
+- Learned declare functions which receive a predefined and variable number of arguments.
