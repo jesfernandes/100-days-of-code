@@ -20,6 +20,8 @@
 - Started to learn variables and declare functions.
 - Learned declare functions which receive a predefined and variable number of arguments.
 
+---
+
 ### Day 3: Jan 28, 2019
 
 **Today's Progress**:
@@ -31,3 +33,4 @@
   - The list is a changeable type, which means that we can destructively change its elements. 
   - In dictionaries, it has the reference between key and value.
 
+---
