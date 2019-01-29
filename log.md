@@ -11,6 +11,8 @@
 **Info**:
 - The initial phase aims to familiarise with Python.
 
+#======
+
 ### Day 2: Jan 23, 2019
 
 **Today's Progress**:
