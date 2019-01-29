@@ -16,3 +16,15 @@
 **Today's Progress**:
 - Started to learn variables and declare functions.
 - Learned declare functions which receive a predefined and variable number of arguments.
+
+### Day 3: Jan 28, 2019
+
+**Today's Progress**:
+- After learning about variables toward functions, started to review about list and dictionaries.
+
+**Details**:
+- Needs to try some strong examples to emphasise the collection object types.
+- Optimising codes is necessary to advance logical structures and concise.
+  - The list is a changeable type, which means that we can destructively change its elements. 
+  - In dictionaries, it has the reference between key and value.
+
