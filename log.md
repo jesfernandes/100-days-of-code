@@ -1,7 +1,6 @@
----
 #
 # <p align="center"> 100 Days Of Code - Log </p>
----
+
 
 **Link to work:**
 [project](https://github.com/jessicaboatto/python_introduction)
@@ -14,8 +13,7 @@
 **Info**:
 - The initial phase aims to familiarise with Python.
 
----
-
+#
 
 ### Day 2: Jan 23, 2019
 
@@ -23,7 +21,7 @@
 - Started to learn variables and declare functions.
 - Learned declare functions which receive a predefined and variable number of arguments.
 
----
+#
 
 ### Day 3: Jan 28, 2019
 
@@ -36,4 +34,4 @@
   - The list is a changeable type, which means that we can destructively change its elements. 
   - In dictionaries, it has the reference between key and value.
 
----
+#
