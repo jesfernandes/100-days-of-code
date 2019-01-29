@@ -2,8 +2,8 @@
 # <p align="center"> 100 Days Of Code - Log </p>
 
 
-**Link to work:**
-[project](https://github.com/jessicaboatto/python_introduction)
+**<p align="right"> Link to work:**
+[project](https://github.com/jessicaboatto/python_introduction) </p>
 
 ### Day 1: Jan 22, 2019
 
