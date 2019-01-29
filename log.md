@@ -1,4 +1,5 @@
 # 100 Days Of Code - Log
+---
 
 **Link to work:**
 [project](https://github.com/jessicaboatto/python_introduction)
