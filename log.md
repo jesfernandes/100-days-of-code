@@ -1,6 +1,6 @@
 ---
 #
-# 100 Days Of Code - Log
+# <p align="center"> 100 Days Of Code - Log </p>
 ---
 
 **Link to work:**
