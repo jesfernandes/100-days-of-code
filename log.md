@@ -37,7 +37,7 @@
 #
 
 
-### Day 3: Jan 29, 2019
+### Day 4: Jan 29, 2019
 
   **Today's Progress**:
   - ...🐫 Paused until February 15th.
