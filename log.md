@@ -35,3 +35,11 @@
     - In dictionaries, it has the reference between key and value.
 
 #
+
+
+### Day 3: Jan 29, 2019
+
+  **Today's Progress**:
+  - ...🐫 Paused until February 15th.
+  
+  #
