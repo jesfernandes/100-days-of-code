@@ -42,4 +42,10 @@
   **Today's Progress**:
   - ...🐫 Paused until April 15th.
   
-  #
+#
+
+
+### Day 5: Oct 01, 2019
+  
+  Now, it's my new progress (Jupyter, Python, Streamlit...)
+  * [Exercises](https://github.com/jessfernandes/Exercicios_Senai)
